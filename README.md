@@ -1,4 +1,4 @@
-# Task List &nbsp; [![Build Status](https://travis-ci.org/codurance/task-list.png)](https://travis-ci.org/codurance/task-list)
+# Task List &nbsp; [![Run tests](https://github.com/jmatas/task-list-kata/actions/workflows/run-tests.yml/badge.svg)](https://github.com/jmatas/task-list-kata/actions/workflows/run-tests.yml)
 
 This is an example of code obsessed with primitives.
 
